@@ -1,2 +1,2 @@
-# Travel_webite
+# Travel_website
 A design for a travel website
